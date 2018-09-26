@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>aviator tutorial</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ url_for('static', filename='main.css') }}" />
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/three.js') }}"></script>
+</head>
+
+<body>
+    <div id="world"></div>
+    <div id="debug"></div>
+    <div id="message"><h3>{{message_1}}</h3><p>{{message_2}}</p><p>{{message_3}}</p></div>
+</body>
+
+</html>

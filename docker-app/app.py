@@ -17,16 +17,16 @@ allowed_domains = [
 ]
 
 # make that flask app
-app = Flask(__name__)
+application = Flask(__name__)
 # wrap an automated interface, accessible at /apidoc
-Swagger(app)
+Swagger(application)
 # wrap the CORS to allow inter-app communication
-CORS(app, origins=allowed_domains, resource=r'/v1/*', supports_credentials=True)
+CORS(application, origins=allowed_domains, resource=r'/v1/*', supports_credentials=True)
     # IMPORTANT: supports_credentials allows COOKIES and CREDENTIALS to be submitted across domains
     # more CORS settings here: https://flask-cors.corydolphin.com/en/latest/api.html#extension
     # github example: https://github.com/corydolphin/flask-cors/blob/master/examples/app_based_example.py
 # prevent autosorting of keys in json output
-app.config["JSON_SORT_KEYS"] = False
+application.config["JSON_SORT_KEYS"] = False
 
 
 def get_reply_tree_by_id():
@@ -37,7 +37,7 @@ def get_reply_tree_by_id():
     pass
 
 
-@app.route('/v1/tweets/tree', methods=['GET'])
+@application.route('/v1/tweets/tree', methods=['GET'])
 def get_reply_tree_by_url():
     """
     give me the url, and i will give you the reply tree (after a long while)
@@ -85,7 +85,17 @@ def get_reply_tree_by_url():
     return jsonify(result)
 
 
+@application.route('/')
+def home():
+    message_1 = "please visit /apidocs for the API"
+    message_2 = "or visit /v1/tweets/tree?url=YOUR-TWITTER-URL-OF-INTEREST"
+    message_3 = "for some interesting stuff"
+    return render_template('index.html', message_1=message_1, message_2=message_2, message_3=message_3)
+
+
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port="5000", debug=False)
-    print('a flask app is initiated at {0}'.format(app.instance_path))
+    # this is only for development purposes. when using docker, gunicorn will run and not these lines.
+    # if running dockerfile for heroku, the production PORT will be assigned randomly at runtime
+    application.run(host="0.0.0.0", port="5000", debug=False)
+    print('a flask app is initiated at {0}'.format(application.instance_path))
 
