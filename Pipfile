@@ -8,6 +8,8 @@ python-twitter = "*"
 google-cloud-language = "*"
 flask = "*"
 google-cloud-translate = "*"
+flask-cors = "*"
+flasgger = "*"
 
 [dev-packages]
 

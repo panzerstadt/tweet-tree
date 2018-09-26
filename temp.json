@@ -1,0 +1,149 @@
+{
+    "text": "I understand much better why America's political elites behave the way they behave now that I know about what kind… https://t.co/9epkhHasA8",
+    "url": "https://twitter.com/anyuser/status/1044465230317645824",
+    "images": [
+        "https://pbs.twimg.com/profile_images/831025272589676544/3g6BrXCE_normal.jpg"
+    ],
+    "retweets": 15,
+    "favourites": 139,
+    "sentiment": {
+        "magnitude": 0.10000000149011612,
+        "score": 0.10000000149011612
+    },
+    "entities": [
+        {
+            "elites": {
+                "entity salience": 0.6416717767715454,
+                "entity type": "PERSON"
+            }
+        },
+        {
+            "way": {
+                "entity salience": 0.1649588644504547,
+                "entity type": "OTHER"
+            }
+        },
+        {
+            "America": {
+                "entity salience": 0.14399687945842743,
+                "entity type": "LOCATION"
+            }
+        },
+        {
+            "https://t.co/9epkhHasA8": {
+                "entity salience": 0.04937249422073364,
+                "entity type": "OTHER"
+            }
+        }
+    ],
+    "children": [
+        {
+            "text": "@fchollet America's plutocracy isn't too new, but yeah, the political elite have always run in the same circles, ou… https://t.co/kreo2mPdZD",
+            "url": "https://twitter.com/anyuser/status/1044760267379363845",
+            "images": [
+                "https://pbs.twimg.com/profile_images/771457767672459264/fGku3qGt_normal.jpg"
+            ],
+            "retweets": 0,
+            "favourites": 0,
+            "sentiment": {
+                "magnitude": 0.0,
+                "score": 0.0
+            },
+            "entities": [
+                {
+                    "@fchollet America": {
+                        "entity salience": 0.38170504570007324,
+                        "entity type": "PERSON"
+                    }
+                },
+                {
+                    "plutocracy": {
+                        "entity salience": 0.3086126148700714,
+                        "entity type": "OTHER"
+                    }
+                },
+                {
+                    "elite": {
+                        "entity salience": 0.1748134195804596,
+                        "entity type": "PERSON"
+                    }
+                },
+                {
+                    "circles": {
+                        "entity salience": 0.13486889004707336,
+                        "entity type": "OTHER"
+                    }
+                }
+            ],
+            "children": []
+        },
+        {
+            "text": "@fchollet You’re ok just because nobody is interested in taking you down. Try to play and we’ll see.",
+            "url": "https://twitter.com/anyuser/status/1044733311392854016",
+            "images": [
+                "https://pbs.twimg.com/profile_images/530852429055938560/JccIf-qR_normal.jpeg"
+            ],
+            "retweets": 0,
+            "favourites": 0,
+            "sentiment": {
+                "magnitude": 1.0,
+                "score": -0.20000000298023224
+            },
+            "entities": [
+                {
+                    "@fchollet": {
+                        "entity salience": 0.6380255222320557,
+                        "entity type": "PERSON"
+                    }
+                },
+                {
+                    "nobody": {
+                        "entity salience": 0.36197444796562195,
+                        "entity type": "PERSON"
+                    }
+                }
+            ],
+            "children": []
+        },
+        {
+            "text": "@fchollet What explains the behavior of French  elites?",
+            "url": "https://twitter.com/anyuser/status/1044697761088753664",
+            "images": [
+                "https://pbs.twimg.com/profile_images/974803369800867840/XC6uVGRz_normal.jpg"
+            ],
+            "retweets": 0,
+            "favourites": 0,
+            "sentiment": {
+                "magnitude": 0.10000000149011612,
+                "score": 0.10000000149011612
+            },
+            "entities": [
+                {
+                    "@fchollet": {
+                        "entity salience": 0.5200040936470032,
+                        "entity type": "PERSON"
+                    }
+                },
+                {
+                    "behavior": {
+                        "entity salience": 0.25231125950813293,
+                        "entity type": "OTHER"
+                    }
+                },
+                {
+                    "elites": {
+                        "entity salience": 0.17912742495536804,
+                        "entity type": "PERSON"
+                    }
+                },
+                {
+                    "French": {
+                        "entity salience": 0.04855724051594734,
+                        "entity type": "LOCATION"
+                    }
+                }
+            ],
+            "children": []
+        }
+    ]
+}

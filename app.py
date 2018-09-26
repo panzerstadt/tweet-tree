@@ -1,12 +1,44 @@
 # import flask to run the backend
+# flask stuff
+from flask import Flask, jsonify, request, render_template
+from flask_cors import CORS
+
+# interface
+from flasgger import Swagger
+
+# the actual logic
 from reply_tree import build_reply_tree
 import json
 
+
+# CORS settings (right now, its just everything, so it's not super safe, might be DDOSed)
+allowed_domains = [
+    r'*'
+]
+
+# make that flask app
+app = Flask(__name__)
+# wrap an automated interface, accessible at /apidoc
+Swagger(app)
+# wrap the CORS to allow inter-app communication
+CORS(app, origins=allowed_domains, resource=r'/v1/*', supports_credentials=True)
+    # IMPORTANT: supports_credentials allows COOKIES and CREDENTIALS to be submitted across domains
+    # more CORS settings here: https://flask-cors.corydolphin.com/en/latest/api.html#extension
+    # github example: https://github.com/corydolphin/flask-cors/blob/master/examples/app_based_example.py
+# prevent autosorting of keys in json output
+app.config["JSON_SORT_KEYS"] = False
+
+
 def get_reply_tree_by_id():
-    {"user": {"screen_name": "HumanoidHistory"}, "id": 970447777053462528}
+    """
+    not yet implemented
+    :return:
+    """
+    pass
 
 
-def get_reply_tree_by_url(url_in):
+@app.route('/v1/tweets/tree', methods=['GET'])
+def get_reply_tree_by_url():
     """
     give me the url, and i will give you the reply tree (after a long while)
     ---
@@ -38,16 +70,22 @@ def get_reply_tree_by_url(url_in):
               type: number
               default: 200
     """
+    try:
+        url_in = request.args.get('url')
+    except:
+        print('no url detected. returning a default')
+        url_in = "https://twitter.com/fchollet/status/1044304738186014720"
 
     result = build_reply_tree(url_in)
-    return result
+
+    # save a backup copy
+    with open("temp.json", "w") as d:
+        json.dump(result, d, ensure_ascii=False, indent=4)
+
+    return jsonify(result)
 
 
 if __name__ == "__main__":
-    twitter_url = "https://twitter.com/fchollet/status/1044304738186014720"
+    app.run(host="0.0.0.0", port="5000", debug=False)
+    print('a flask app is initiated at {0}'.format(app.instance_path))
 
-    r = get_reply_tree_by_url(twitter_url)
-    with open("dummy.json", "w") as d:
-        json.dump(r, d, ensure_ascii=False, indent=4)
-
-    print(json.dumps(r, indent=4, ensure_ascii=False))
