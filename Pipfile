@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 python-twitter = "*"
+google-cloud-language = "*"
+flask = "*"
+google-cloud-translate = "*"
 
 [dev-packages]
 

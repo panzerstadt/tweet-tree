@@ -1,0 +1,577 @@
+INFO:root:looking for replies to: https://twitter.com/HumanoidHistory/status/970447777053462528
+INFO:root:examining: https://twitter.com/HenrikBundt/status/1041566183420514304
+INFO:root:examining: https://twitter.com/dasinfogod/status/1041543916892246016
+INFO:root:examining: https://twitter.com/HumanoidHistory/status/1041532200381046785
+INFO:root:examining: https://twitter.com/AsteroidEnergy/status/1041507460148805633
+INFO:root:examining: https://twitter.com/FelixFosterAuto/status/1041487976604282880
+INFO:root:examining: https://twitter.com/RaymondHogg4/status/1041484583395647488
+INFO:root:examining: https://twitter.com/Fixxxer2017/status/1041483309438644225
+INFO:root:examining: https://twitter.com/Rob_Rainbolt/status/1041481974475415552
+INFO:root:examining: https://twitter.com/vulcan54/status/1041474440482185216
+INFO:root:examining: https://twitter.com/TFDrake/status/1041466722904100864
+INFO:root:examining: https://twitter.com/chaos_omega/status/1041465729545977856
+INFO:root:examining: https://twitter.com/raulmares72/status/1041461895377637376
+INFO:root:examining: https://twitter.com/Starrxxfoxx/status/1041460220713680898
+INFO:root:examining: https://twitter.com/joez72/status/1041431592277864450
+INFO:root:examining: https://twitter.com/shoobe01/status/1041420082977624070
+INFO:root:looking for replies to: https://twitter.com/1040857962577768448/status/fchollet
+ERROR:root:caught twitter api error: {'message': '"since_id" must be type int'}
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1040857962577768448
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1040857962577768448
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1041475376403251200
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1041475376403251200
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1041475376403251200
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1041475377477038080
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1041475377477038080
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1041475377477038080
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1041475377477038080
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1041475377477038080
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1041475377477038080
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:found reply: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:found reply: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:found reply: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:found reply: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:found reply: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:found reply: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:found reply: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:found reply: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:examining: https://twitter.com/JJC1138/status/1041370360078381057
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1041351352348291072
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1041350693603495941
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1041350086138191875
+INFO:root:examining: https://twitter.com/zannah_perrins/status/1041330607014535168
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1041035894109757440
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1040977883559284736
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1040910348977688576
+INFO:root:examining: https://twitter.com/magicrowley/status/1038539704176705536
+INFO:root:looking for replies to: https://twitter.com/fchollet/status/1041475377477038080
+INFO:root:examining: https://twitter.com/mandubian/status/1041591264733478912
+INFO:root:examining: https://twitter.com/BugGenerator/status/1041582403477598208
+INFO:root:examining: https://twitter.com/DamienStvc/status/1041575513876131841
+INFO:root:examining: https://twitter.com/Read_The_Dung/status/1041562280712957952
+INFO:root:examining: https://twitter.com/yasir_huk/status/1041555016195006464
+INFO:root:examining: https://twitter.com/marcusklaas/status/1041547891154800640
+INFO:root:examining: https://twitter.com/JungleStrikeGuy/status/1041543320801927168
+INFO:root:examining: https://twitter.com/fmailhot/status/1041541814497562626
+INFO:root:examining: https://twitter.com/getprasannav/status/1041536685979435008
+INFO:root:examining: https://twitter.com/JoshjMarsh/status/1041532383541882881
+INFO:root:examining: https://twitter.com/ngutten/status/1041496273038143488
+INFO:root:examining: https://twitter.com/kaleidic/status/1041490605996744704
+INFO:root:examining: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:found reply: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041485105951387648
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:found reply: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:found reply: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:found reply: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:found reply: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:found reply: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:found reply: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:looking for replies to: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041490305567129600
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/togelius/status/1041489019731943427
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/togelius/status/1041488337218023431
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/togelius/status/1041487419726614528
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/togelius/status/1041486967324717056
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/togelius/status/1041486478847762433
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/lankoski/status/1041035907166613504
+INFO:root:examining: https://twitter.com/gedda/status/1040723302191439874
+INFO:root:examining: https://twitter.com/gedda/status/1040723022804668418
+INFO:root:examining: https://twitter.com/JohnArgh/status/1040717835788533760
+INFO:root:examining: https://twitter.com/togelius/status/1040637858174910464
+INFO:root:examining: https://twitter.com/Aelkus/status/1040411307919458305
+INFO:root:examining: https://twitter.com/ybika/status/1040389789646827523
+INFO:root:examining: https://twitter.com/togelius/status/1040357649550925824
+INFO:root:examining: https://twitter.com/ChristophSalge/status/1040354018172788737
+INFO:root:examining: https://twitter.com/ali_kouhzadi/status/1041482443344101377
+INFO:root:examining: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:found reply: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:looking for replies to: https://twitter.com/JJC1138/status/1041482026904432646
+INFO:root:examining: https://twitter.com/JJC1138/status/1041370360078381057
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1041351352348291072
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1041350693603495941
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1041350086138191875
+INFO:root:examining: https://twitter.com/zannah_perrins/status/1041330607014535168
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1041035894109757440
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1040977883559284736
+INFO:root:examining: https://twitter.com/PotterMoosh/status/1040910348977688576
+INFO:root:examining: https://twitter.com/magicrowley/status/1038539704176705536
+INFO:root:looking for replies to: https://twitter.com/mincos_magazine/status/1026406786079764482
+INFO:root:examining: https://twitter.com/nekonekorin78/status/1044781686091735040
+INFO:root:found reply: https://twitter.com/nekonekorin78/status/1044781686091735040
+INFO:root:looking for replies to: https://twitter.com/nekonekorin78/status/1044781686091735040
+INFO:root:examining: https://twitter.com/rt0131XY/status/1044168145081053187
+INFO:root:examining: https://twitter.com/tansansui2015/status/1044125769335681024
+INFO:root:examining: https://twitter.com/melolo0325/status/1042583971228377088
+INFO:root:examining: https://twitter.com/ma070828/status/1042374912520810496
+INFO:root:examining: https://twitter.com/rt0131XY/status/1042354664782495746
+INFO:root:examining: https://twitter.com/ja1041010/status/1042266040057516032
+INFO:root:examining: https://twitter.com/shichan91589880/status/1042150302080745475
+INFO:root:examining: https://twitter.com/ryoharuyuzu/status/1042072272402382849
+INFO:root:examining: https://twitter.com/Kametaro77/status/1042070114386857984
+INFO:root:examining: https://twitter.com/ma070828/status/1042039595787898880
+INFO:root:examining: https://twitter.com/ma070828/status/1042036418334220291
+INFO:root:examining: https://twitter.com/nyhX5fkKh8XpXzO/status/1042031750409408513
+INFO:root:examining: https://twitter.com/kewpiemix/status/1042003445358546944
+INFO:root:examining: https://twitter.com/rt0131XY/status/1041995403686633472
+INFO:root:examining: https://twitter.com/VtFuGWEjTZAQEdC/status/1044750987750064128
+INFO:root:examining: https://twitter.com/iVmj2eF/status/1044686869110317056
+INFO:root:found reply: https://twitter.com/iVmj2eF/status/1044686869110317056
+INFO:root:looking for replies to: https://twitter.com/iVmj2eF/status/1044686869110317056
+INFO:root:examining: https://twitter.com/nabex4/status/1044647173239975942
+INFO:root:found reply: https://twitter.com/nabex4/status/1044647173239975942
+INFO:root:looking for replies to: https://twitter.com/nabex4/status/1044647173239975942
+INFO:root:examining: https://twitter.com/syabuodisan/status/1044706165584609280
+INFO:root:examining: https://twitter.com/takafumi040312/status/1043712655536488448
+INFO:root:examining: https://twitter.com/Hoollii/status/1043127283836280833
+INFO:root:examining: https://twitter.com/mother_loid_bot/status/1042910783863046144
+INFO:root:examining: https://twitter.com/Hoollii/status/1042403128975417345
+INFO:root:examining: https://twitter.com/d_davinci/status/1042233523107590144
+INFO:root:examining: https://twitter.com/pasdaikon/status/1042179445090480128
+INFO:root:examining: https://twitter.com/18tmdumiss1/status/1041143603777560578
+INFO:root:examining: https://twitter.com/18tmdumiss1/status/1041143535318126593
+INFO:root:examining: https://twitter.com/silencesoeji/status/1041094086466256896
+INFO:root:examining: https://twitter.com/torotyuk/status/1044631275003232256
+INFO:root:found reply: https://twitter.com/torotyuk/status/1044631275003232256
+INFO:root:looking for replies to: https://twitter.com/torotyuk/status/1044631275003232256
+INFO:root:examining: https://twitter.com/Kent57867118/status/1044593646245302274
+INFO:root:found reply: https://twitter.com/Kent57867118/status/1044593646245302274
+INFO:root:looking for replies to: https://twitter.com/Kent57867118/status/1044593646245302274
+INFO:root:examining: https://twitter.com/gox_crypt/status/1043632965635305472
+INFO:root:examining: https://twitter.com/NewtryHi/status/1043514294736805890
+INFO:root:examining: https://twitter.com/Kent57867118/status/1043499523727753225
+INFO:root:examining: https://twitter.com/Kent57867118/status/1043497508842786816
+INFO:root:examining: https://twitter.com/Kent57867118/status/1043494823582294016
+INFO:root:examining: https://twitter.com/Kent57867118/status/1043489729444896774
+INFO:root:examining: https://twitter.com/5jika2/status/1044590230685151233
+INFO:root:found reply: https://twitter.com/5jika2/status/1044590230685151233
+INFO:root:looking for replies to: https://twitter.com/5jika2/status/1044590230685151233
+INFO:root:examining: https://twitter.com/ayatakaJP/status/1044481976219119616
+INFO:root:examining: https://twitter.com/Oh9XQDfcBNxMLIW/status/1044473875256369152
+INFO:root:examining: https://twitter.com/akiko_lawson/status/1044425145786478594
+INFO:root:examining: https://twitter.com/akiko_lawson/status/1043516003152551938
+INFO:root:examining: https://twitter.com/akiko_lawson/status/1042726691678969856
+INFO:root:examining: https://twitter.com/CF62aIMNHkoI6Ze/status/1044587519025721345
+INFO:root:found reply: https://twitter.com/CF62aIMNHkoI6Ze/status/1044587519025721345
+INFO:root:looking for replies to: https://twitter.com/CF62aIMNHkoI6Ze/status/1044587519025721345
+INFO:root:examining: https://twitter.com/bz178AnninTofu/status/1043265535696232448
+INFO:root:examining: https://twitter.com/bz178AnninTofu/status/1043130602415779840
+INFO:root:examining: https://twitter.com/bz178AnninTofu/status/1040977579543388161
+INFO:root:examining: https://twitter.com/rodemuberu1/status/1044554270027112450
+INFO:root:examining: https://twitter.com/yukihiro666/status/1044521768071815168
+INFO:root:found reply: https://twitter.com/yukihiro666/status/1044521768071815168
+INFO:root:looking for replies to: https://twitter.com/yukihiro666/status/1044521768071815168
+INFO:root:examining: https://twitter.com/yukihiro666/status/1044109901826469888
+INFO:root:examining: https://twitter.com/yukihiro666/status/1043487430119055360
+INFO:root:examining: https://twitter.com/ryoko070800/status/1044508171614572544
+INFO:root:found reply: https://twitter.com/ryoko070800/status/1044508171614572544
+INFO:root:looking for replies to: https://twitter.com/ryoko070800/status/1044508171614572544
+INFO:root:examining: https://twitter.com/okaka_rice_/status/1044465692383178753
+INFO:root:found reply: https://twitter.com/okaka_rice_/status/1044465692383178753
+INFO:root:looking for replies to: https://twitter.com/okaka_rice_/status/1044465692383178753
+INFO:root:examining: https://twitter.com/vegetarian_kei/status/1044447539519320065
+INFO:root:found reply: https://twitter.com/vegetarian_kei/status/1044447539519320065
+INFO:root:looking for replies to: https://twitter.com/vegetarian_kei/status/1044447539519320065
+INFO:root:examining: https://twitter.com/vegetarian_kei/status/1043472591963353088
+INFO:root:examining: https://twitter.com/mikazukicraft/status/1043055302126391296
+INFO:root:examining: https://twitter.com/mikazukicraft/status/1043047147690635264
+INFO:root:examining: https://twitter.com/curaso99/status/1042805950783008768
+INFO:root:examining: https://twitter.com/curaso99/status/1042805462918344704
+INFO:root:examining: https://twitter.com/kill69stars/status/1044398605463777280
+INFO:root:found reply: https://twitter.com/kill69stars/status/1044398605463777280
+INFO:root:looking for replies to: https://twitter.com/kill69stars/status/1044398605463777280
+INFO:root:examining: https://twitter.com/kuritree0205/status/1044742324482322437
+INFO:root:examining: https://twitter.com/early_ak/status/1044675878737764352
+INFO:root:examining: https://twitter.com/kuritree0205/status/1044595780646973440
+INFO:root:examining: https://twitter.com/SNRight1/status/1044580310153719809
+INFO:root:examining: https://twitter.com/ZOZOTOWN_CS/status/1044437211901419520
+INFO:root:examining: https://twitter.com/ninedragonn/status/1043762248399773697
+INFO:root:examining: https://twitter.com/onsen_55/status/1043752031398195200
+INFO:root:examining: https://twitter.com/rakisis568/status/1043677879668596736
+INFO:root:examining: https://twitter.com/ykmeiling8/status/1043673269012914176
+INFO:root:examining: https://twitter.com/ykmeiling8/status/1043671960629141504
+INFO:root:examining: https://twitter.com/TaigaNarukami/status/1043518951819374592
+INFO:root:examining: https://twitter.com/TaigaNarukami/status/1043518908060192768
+INFO:root:examining: https://twitter.com/cita_cya/status/1043319371811057664
+INFO:root:examining: https://twitter.com/TSUBUTSUBU1/status/1043233852850753536
+INFO:root:examining: https://twitter.com/seagreenjp2000/status/1043163120158429184
+INFO:root:examining: https://twitter.com/fIvgMtajDFKfSoK/status/1044246523737911297
+INFO:root:found reply: https://twitter.com/fIvgMtajDFKfSoK/status/1044246523737911297
+INFO:root:looking for replies to: https://twitter.com/fIvgMtajDFKfSoK/status/1044246523737911297
+INFO:root:examining: https://twitter.com/Omeme70452599/status/1044497491075321856
+INFO:root:examining: https://twitter.com/ch115ummer/status/1044402073624764417
+INFO:root:examining: https://twitter.com/miyu_041029/status/1043687310322094080
+INFO:root:examining: https://twitter.com/Atsumi___Minami/status/1043326858429837313
+INFO:root:examining: https://twitter.com/creatorhikari/status/1042391255869616130

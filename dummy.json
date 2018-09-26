@@ -1,0 +1,250 @@
+{
+    "text": "I think there's a 80% chance that TensorFlow &amp; Keras will still be maintained and will still have a significant use… https://t.co/I9ZVK39Q3U",
+    "url": "https://twitter.com/anyuser/status/1044304738186014720",
+    "images": [
+        "https://pbs.twimg.com/profile_images/831025272589676544/3g6BrXCE_normal.jpg"
+    ],
+    "retweets": 59,
+    "favourites": 275,
+    "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+    },
+    "entities": [
+        {
+            "chance": {
+                "entity salience": 0.36994418501853943,
+                "entity type": "OTHER"
+            }
+        },
+        {
+            "Keras": {
+                "entity salience": 0.19115063548088074,
+                "entity type": "PERSON"
+            }
+        },
+        {
+            "TensorFlow &amp": {
+                "entity salience": 0.1889004409313202,
+                "entity type": "OTHER"
+            }
+        },
+        {
+            "use": {
+                "entity salience": 0.15569403767585754,
+                "entity type": "OTHER"
+            }
+        },
+        {
+            "https://t.co/I9ZVK39Q3U": {
+                "entity salience": 0.09431072324514389,
+                "entity type": "OTHER"
+            }
+        }
+    ],
+    "children": [
+        {
+            "text": "@fchollet Keras? Maybe. Significant? I would say Not dead. TF? Oh, it will be history! Yes, used, but legacy. It is… https://t.co/TUsXXG5rrl",
+            "url": "https://twitter.com/anyuser/status/1044704759868018688",
+            "images": [
+                "https://pbs.twimg.com/profile_images/892791728318664705/-9cf9w9__normal.jpg"
+            ],
+            "retweets": 0,
+            "favourites": 0,
+            "sentiment": {
+                "magnitude": 0.6000000238418579,
+                "score": 0.0
+            },
+            "entities": [
+                {
+                    "@fchollet Keras": {
+                        "entity salience": 0.6882247924804688,
+                        "entity type": "OTHER"
+                    }
+                },
+                {
+                    "legacy": {
+                        "entity salience": 0.15709099173545837,
+                        "entity type": "OTHER"
+                    }
+                },
+                {
+                    "TF": {
+                        "entity salience": 0.09551641345024109,
+                        "entity type": "LOCATION"
+                    }
+                },
+                {
+                    "https://t.co/TUsXXG5rrl": {
+                        "entity salience": 0.059167828410863876,
+                        "entity type": "OTHER"
+                    }
+                }
+            ],
+            "children": [
+                {
+                    "text": "@fchollet Now TF is a self fulfilling prophecy. People use it because (other) people use it. And now, there is noth… https://t.co/yjH2gkoO1D",
+                    "url": "https://twitter.com/anyuser/status/1044705537055739904",
+                    "images": [
+                        "https://pbs.twimg.com/profile_images/892791728318664705/-9cf9w9__normal.jpg"
+                    ],
+                    "retweets": 0,
+                    "favourites": 0,
+                    "sentiment": {
+                        "magnitude": 0.6000000238418579,
+                        "score": 0.0
+                    },
+                    "entities": [
+                        {
+                            "@fchollet": {
+                                "entity salience": 0.3320399820804596,
+                                "entity type": "PERSON"
+                            }
+                        },
+                        {
+                            "TF": {
+                                "entity salience": 0.25619184970855713,
+                                "entity type": "LOCATION"
+                            }
+                        },
+                        {
+                            "self": {
+                                "entity salience": 0.14346560835838318,
+                                "entity type": "OTHER"
+                            }
+                        },
+                        {
+                            "prophecy": {
+                                "entity salience": 0.12478391081094742,
+                                "entity type": "OTHER"
+                            }
+                        },
+                        {
+                            "https://t.co/yjH2gkoO1D": {
+                                "entity salience": 0.06327179819345474,
+                                "entity type": "OTHER"
+                            }
+                        },
+                        {
+                            "People": {
+                                "entity salience": 0.041580554097890854,
+                                "entity type": "PERSON"
+                            }
+                        },
+                        {
+                            "people": {
+                                "entity salience": 0.038666270673274994,
+                                "entity type": "PERSON"
+                            }
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "text": "@fchollet Now TF is a self fulfilling prophecy. People use it because (other) people use it. And now, there is noth… https://t.co/yjH2gkoO1D",
+            "url": "https://twitter.com/anyuser/status/1044705537055739904",
+            "images": [
+                "https://pbs.twimg.com/profile_images/892791728318664705/-9cf9w9__normal.jpg"
+            ],
+            "retweets": 0,
+            "favourites": 0,
+            "sentiment": {
+                "magnitude": 0.6000000238418579,
+                "score": 0.0
+            },
+            "entities": [
+                {
+                    "@fchollet": {
+                        "entity salience": 0.3320399820804596,
+                        "entity type": "PERSON"
+                    }
+                },
+                {
+                    "TF": {
+                        "entity salience": 0.25619184970855713,
+                        "entity type": "LOCATION"
+                    }
+                },
+                {
+                    "self": {
+                        "entity salience": 0.14346560835838318,
+                        "entity type": "OTHER"
+                    }
+                },
+                {
+                    "prophecy": {
+                        "entity salience": 0.12478391081094742,
+                        "entity type": "OTHER"
+                    }
+                },
+                {
+                    "https://t.co/yjH2gkoO1D": {
+                        "entity salience": 0.06327179819345474,
+                        "entity type": "OTHER"
+                    }
+                },
+                {
+                    "People": {
+                        "entity salience": 0.041580554097890854,
+                        "entity type": "PERSON"
+                    }
+                },
+                {
+                    "people": {
+                        "entity salience": 0.038666270673274994,
+                        "entity type": "PERSON"
+                    }
+                }
+            ],
+            "children": []
+        },
+        {
+            "text": "@fchollet I think we will have different architectures on top of these Softwares, especially in Speech",
+            "url": "https://twitter.com/anyuser/status/1044636246985912321",
+            "images": [
+                "https://pbs.twimg.com/profile_images/967245728677441537/1ooMIkl1_normal.jpg"
+            ],
+            "retweets": 0,
+            "favourites": 0,
+            "sentiment": {
+                "magnitude": 0.5,
+                "score": 0.5
+            },
+            "entities": [
+                {
+                    "@fchollet": {
+                        "entity salience": 0.4486076831817627,
+                        "entity type": "PERSON"
+                    }
+                },
+                {
+                    "architectures": {
+                        "entity salience": 0.20967310667037964,
+                        "entity type": "OTHER"
+                    }
+                },
+                {
+                    "top": {
+                        "entity salience": 0.19561883807182312,
+                        "entity type": "OTHER"
+                    }
+                },
+                {
+                    "Speech": {
+                        "entity salience": 0.10605978965759277,
+                        "entity type": "OTHER"
+                    }
+                },
+                {
+                    "Softwares": {
+                        "entity salience": 0.040040574967861176,
+                        "entity type": "CONSUMER_GOOD"
+                    }
+                }
+            ],
+            "children": []
+        }
+    ]
+}

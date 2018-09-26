@@ -42,20 +42,72 @@ import urllib.parse
 
 from os import environ as e
 
+# t = twitter.Api(
+#     consumer_key=e["CONSUMER_KEY"],
+#     consumer_secret=e["CONSUMER_SECRET"],
+#     access_token_key=e["ACCESS_TOKEN"],
+#     access_token_secret=e["ACCESS_TOKEN_SECRET"],
+#     sleep_on_rate_limit=True
+# )
+
+from hidden.hidden import Twitter
+twitter_secrets = Twitter()
+
 t = twitter.Api(
-    consumer_key=e["CONSUMER_KEY"],
-    consumer_secret=e["CONSUMER_SECRET"],
-    access_token_key=e["ACCESS_TOKEN"],
-    access_token_secret=e["ACCESS_TOKEN_SECRET"],
+    consumer_key=twitter_secrets.consumer_key,
+    consumer_secret=twitter_secrets.consumer_secret,
+    access_token_key=twitter_secrets.access_token_key,
+    access_token_secret=twitter_secrets.access_token_secret,
     sleep_on_rate_limit=True
 )
+
 
 def tweet_url(t):
     return "https://twitter.com/%s/status/%s" % (t.user.screen_name, t.id)
 
-def get_tweets(filename):
+
+def get_tweets_from_json(filename):
     for line in open(filename):
         yield twitter.Status.NewFromJsonDict(json.loads(line))
+
+
+def get_tweet(tweet_data):
+    return twitter.Status.NewFromJsonDict(tweet_data)
+
+
+def get_tweet_from_twitter_url(twitter_url):
+    """
+    e.g. https://twitter.com/fchollet/status/1040857962577768448
+    :param twitter_url:
+    :return:
+    """
+    pcs = twitter_url.split('/')
+    print(pcs)
+
+    user = None
+    id = None
+    for i, v in enumerate(pcs):
+        if v == "status":
+            user = pcs[i-1]
+            id = pcs[i+1]
+
+    if user and id:
+        tweet_data = {
+            "user": {
+                "screen_name": user
+            },
+            "id": int(id)
+        }
+
+        return twitter.Status.NewFromJsonDict(tweet_data)
+    else:
+        raise SystemExit('user and id not found from tweet. tweet has to be this format: https://twitter.com/fchollet/status/1040857962577768448')
+
+
+def get_tweet_status(tweet_id):
+    status = t.GetStatus(status_id=tweet_id)
+    return status
+
 
 def get_replies(tweet):
     user = tweet.user.screen_name
@@ -72,6 +124,10 @@ def get_replies(tweet):
             continue
         for reply in replies:
             logging.info("examining: %s" % tweet_url(reply))
+            # print("     ", reply.text)
+            # print(' this post {} \n is replying to id: {} \n id required: {}'.format(reply.text, reply.in_reply_to_status_id, tweet_id))
+            # print(type(reply.in_reply_to_status_id))
+            # print(type(tweet_id))
             if reply.in_reply_to_status_id == tweet_id:
                 logging.info("found reply: %s" % tweet_url(reply))
                 yield reply
@@ -82,9 +138,23 @@ def get_replies(tweet):
         if len(replies) != 100:
             break
 
+
 if __name__ == "__main__":
     logging.basicConfig(filename="replies.log", level=logging.INFO)
-    tweets_file = sys.argv[1]
-    for tweet in get_tweets(tweets_file):
-        for reply in get_replies(tweet):
-            print(reply.AsJsonString())
+    # tweets_file = sys.argv[1]
+    # for tweet in get_tweets(tweets_file):
+    #     for reply in get_replies(tweet):
+    #         print(reply.AsJsonString())
+
+    tweet = {"user":{"screen_name": "HumanoidHistory"},"id": 970447777053462528}
+    twitter_url = "https://twitter.com/mincos_magazine/status/1026406786079764482"
+
+    tweet_object = get_tweet_from_twitter_url(twitter_url)
+
+    status = get_tweet_status(tweet_object.id).AsDict()
+
+    print(json.dumps(status, indent=4, ensure_ascii=False))
+    raise
+
+    for reply in get_replies(tweet_object):
+        print(reply.AsJsonString())
